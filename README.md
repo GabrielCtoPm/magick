@@ -40,6 +40,8 @@ With Magick, you can unleash the power of AI without needing to know how to code
 ## Setup
 
 ```
+Install node 16
+
 npm install --legacy-peer-deps
 npm run dev
 ```
